@@ -14,9 +14,9 @@ I'm a lead Software engg. with over 13 years of experience in building scalable 
 - REST APIs
 
 ## Projects
-- [Project 1](https://github.com/muazzamwaheed/product-catalogue) - Short description of the project
-- [Project 2](https://github.com/muazzamwaheed/product-catalogue-springboot) - Short description of the project
-- [Project 3](https://github.commuazzamwaheed/football-league) - Short description of the project
+- [product-catalogue](https://github.com/muazzamwaheed/product-catalogue) - Short description of the project
+- [product-catalogue-springboot](https://github.com/muazzamwaheed/product-catalogue-springboot) - Short description of the project
+- [football-league](https://github.commuazzamwaheed/football-league) - Short description of the project
 
 ## Experience
 - Backend Developer, A.P.Moller Maersk, 2017 - present
@@ -28,6 +28,6 @@ I'm a lead Software engg. with over 13 years of experience in building scalable 
 - Bachelor of Science in Computer Science, VTU University, 2010
 
 ## Contact Me
-- Email: johndoe@example.com
+- Email: muazzam.waheed@live.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muazzam-waheed-h-37046723)
 - Twitter: [Your Twitter Handle](https://twitter.com/muazzamwaheed)
